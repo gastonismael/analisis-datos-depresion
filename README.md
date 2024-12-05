@@ -36,8 +36,7 @@ Dataset: https://www.kaggle.com/datasets/hopesb/student-depression-dataset
 
 - **Sueño y Depresión**: Más horas de sueño tienden a estar asociadas con menores niveles de depresión en hombres, mientras que en mujeres la relación es menos consistente y a veces inversa.
 
-Este análisis resalta la importancia de factores como edad, género, presión académica y satisfacción personal en la incidencia de depresión.
 
 ## Documentación
 
-- [Conclusiones] (docs/conclusiones.md)
+- [Conclusiones] ()
