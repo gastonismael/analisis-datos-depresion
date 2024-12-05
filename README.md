@@ -40,3 +40,4 @@ Dataset: https://www.kaggle.com/datasets/hopesb/student-depression-dataset
 ## Documentación
 
 - [Conclusiones] (https://github.com/gastonismael/analisis-datos-depresion/blob/2ffd45857e466d8a34e6ab0461f886ee45ed4cf9/conclusiones)
+- [Visualización en Tableau] (https://public.tableau.com/views/AnalisisDatosDepresinStudent_Depression_Dataset/Dashboard2?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
