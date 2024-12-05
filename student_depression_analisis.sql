@@ -1,3 +1,5 @@
+ALTER TABLE "Student Depression Dataset" RENAME TO student_depression;
+
 -- Verificar la tabla
 SELECT * FROM student_depression;
 
@@ -10,7 +12,7 @@ FROM student_depression
 WHERE
     City IS NULL 
     AND Profession IS NULL
-	AND "Academic Pressure" IS NULL
+    AND "Academic Pressure" IS NULL
     AND "WorK Pressure" IS NULL
     AND "Study Satisfaction" IS NULL
     AND "Job Satisfaction" IS NULL
